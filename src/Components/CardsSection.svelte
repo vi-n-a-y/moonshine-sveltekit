@@ -68,7 +68,7 @@
 
   .card {
     width: 220px;
-    height:500px
+    height:500px;
     display: flex;
     flex-direction: column;
     align-items: center;
